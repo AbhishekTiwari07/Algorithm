@@ -1,16 +1,18 @@
 # Algorithm
 This repo consists of all the algorithm i have learnt so far
 
-Basic
-    - [x] Pattern printing problems
-    - [ ] Analysis of time complexity
-    - [ ] Linear Search problems 
-    - [ ] Circular array using simple array 
-    - [ ] Palidrom, Perfect number 
-    - [ ] Simple Hashing problems 
-    - [ ] Prefix Sum Problems 1D/2D 
-    - [ ] Sliding window technich (1/5) 
-
+<h2>1.Basic</h2>
+<ul>
+    <li> [x] Pattern printing problems </li>
+    <li> [ ] Analysis of time complexity </li>
+    <li> [ ] Linear Search problems </li>
+    <li> [ ] Analysis of time complexity </li>
+    <li> [ ] Circular array using simple array </li>
+    <li> [ ] Palidrom, Perfect number </li>
+    <li> [ ] Simple Hashing problems </li>
+    <li> [ ] Prefix Sum Problems 1D/2D </li>
+    <li> [ ] Sliding window technich (1/5) </li>
+</ul>
 Intermediate
     1: Binary Search problesm (2/5)
     2: Find GCD of 2 numbers in LogN (Euclined and Extended euclined algo)
