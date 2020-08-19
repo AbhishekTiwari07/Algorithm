@@ -3,7 +3,7 @@ This repo consists of all the algorithm i have learnt so far
 
 <h2>1.Basic</h2>
 <ul>
-    <li> [x] Pattern printing problems </li>
+    <li input="checkbox"> [x] Pattern printing problems </li>
     <li> [ ] Analysis of time complexity </li>
     <li> [ ] Linear Search problems </li>
     <li> [ ] Analysis of time complexity </li>
