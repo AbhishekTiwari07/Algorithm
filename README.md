@@ -2,7 +2,6 @@
 This repo consists of all the algorithm i have learnt so far
 
 Basic
-    ----------
     1: [] Pattern printing problems
     2: Analysis of time complexity []
     3: Linear Search problems []
@@ -12,8 +11,7 @@ Basic
     7: Prefix Sum Problems 1D/2D []
     8: Sliding window technich (1/5) []
 
-    Intermewdiate
-    ----------------
+Intermediate
     1: Binary Search problesm (2/5)
     2: Find GCD of 2 numbers in LogN (Euclined and Extended euclined algo)
     3: Prime in Sqrt(n) complexity  
@@ -23,8 +21,8 @@ Basic
     7: Euler Totient function
     8: Fermet Little theorem
     
-    Number Theory
-    ---------------
+Number Theory
+    
     1: Finding x^n in LogN
     2: Modular Arithmetic
     3: Module Inverse of a number
