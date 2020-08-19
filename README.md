@@ -1,15 +1,15 @@
 # Algorithm
 This repo consists of all the algorithm i have learnt so far
 
-Basic
-    1: [] Pattern printing problems
-    2: Analysis of time complexity []
-    3: Linear Search problems []
-    4: Circular array using simple array []
-    5: Palidrom, Perfect number []
-    6: Simple Hashing problems []
-    7: Prefix Sum Problems 1D/2D []
-    8: Sliding window technich (1/5) []
+- [] Basic
+    - [] Pattern printing problems
+    - [] Analysis of time complexity
+    - [] Linear Search problems 
+    - [] Circular array using simple array 
+    - [] Palidrom, Perfect number 
+    - [] Simple Hashing problems 
+    - [] Prefix Sum Problems 1D/2D 
+    - [] Sliding window technich (1/5) 
 
 Intermediate
     1: Binary Search problesm (2/5)
