@@ -2,7 +2,7 @@
 This repo consists of all the algorithm i have learnt so far
 
 - [] Basic
-    - [] Pattern printing problems
+    - [x] Pattern printing problems
     - [] Analysis of time complexity
     - [] Linear Search problems 
     - [] Circular array using simple array 
