@@ -3,7 +3,7 @@ This repo consists of all the algorithm i have learnt so far
 
 <h2>1.Basic</h2>
 <ul>
-    <li input="checkbox"> [x] Pattern printing problems </li>
+    <li> [x] Pattern printing problems </li>
     <li> [ ] Analysis of time complexity </li>
     <li> [ ] Linear Search problems </li>
     <li> [ ] Analysis of time complexity </li>
@@ -13,135 +13,139 @@ This repo consists of all the algorithm i have learnt so far
     <li> [ ] Prefix Sum Problems 1D/2D </li>
     <li> [ ] Sliding window technich (1/5) </li>
 </ul>
-Intermediate
-    1: Binary Search problesm (2/5)
-    2: Find GCD of 2 numbers in LogN (Euclined and Extended euclined algo)
-    3: Prime in Sqrt(n) complexity  
-    4: Seive of Eratosthenes
-    5: Segmented Seive
-    6: Finding the prime factorization of a number in logn per query
-    7: Euler Totient function
-    8: Fermet Little theorem
+
+<h2>2.Intermediate</h2>
+<ul>
+    <li> [ ] Binary Search problesm (2/5) </li>
+    <li> [ ] Find GCD of 2 numbers in LogN (Euclined and Extended euclined algo) </li>
+    <li> [ ] Prime in Sqrt(n) complexity </li>
+    <li> [ ] Seive of Eratosthenes </li>
+    <li> [ ] Segmented Seive </li>
+    <li> [ ] Finding the prime factorization of a number in logn per query </li>
+    <li> [ ] Euler Totient function </li>
+    <li> [ ] Fermet Little theorem </li>
+</ul>   
+
+<h2>3.Number Theory</h2>
+<ul>
+    <li> [ ] Finding x^n in LogN </li>
+    <li> [ ] Modular Arithmetic </li>
+    <li> [ ] Module Inverse of a number </li>
+    <li> [ ] Chines remainder theorem </li>
+    <li> [ ] Factorial Modulo Mod </li>
+    <li> [ ] Finding nCr & nPr in queries </li>
+    <li> [ ] Inclusion Exclusion principle </li>
+</ul>
+
+<h2>4.Some Advanced</h2>
+<ul>
+    <li> [ ] Learn about basic sorting Algorithms (Bubbel, Selectiom, Insertion)</li>
+    <li> [ ] Constructive and having swap terms in it</li>
+    <li> [ ] Bit Manupulation problems(Left shift,Right shift, Set bit, MSB LSB etc) (Hackerearth as good tuts)</li>
+    <li> [ ] Power set of a given array or string using BIT</li>
+    <li> [ ] Number of subarray with XOR as ZERO (Not alogirithm, but a nust do problem)</li>
+    <li> [ ] Greedy Algoriths Tag</li>
+    <li> [ ] Kadan's Algorithms and problem related to them</li>
+    <li> [ ] Job sequesnce and activity selection problem</li>
+</ul>
     
-Number Theory
+<h2>5.Recursion</h2>
+<ul>
+    <li> [ ] Recurssion probelms like finding factorial </li>
+    <li> [ ] Implement Binary search using recursion </li>
+    <li> [ ] Implement modular exponent </li>
+    <li> [ ] Solve recursion problem like finding subset with given sum and other problems </li>
+</ul>
+
+<h2>Advanced</h2>
+<ul>
+    <li> [ ] Learn Merge Sort & Quick sort algorithms</li>
+    <li> [ ] Do backtracking problems like Sudoku and N-Queen problem (Help in DP path problems)</li>
+    <li> [ ] Meet in the middle algo and probs</li>
+    <li> [ ] Devide & Conquer problesm on Codeforces</li>
+    <li> [ ] Find next greater / Next samller element using stack</li>
+    <li> [ ] problesm related to paranthesis</li>
+    <li> [ ] Largest ractangular area in Histogram</li>
+    <li> [ ] Probleam related to Heap (Priority Queue)</li>
+</ul>
+
+<h2>More Advanced</h2>
+<ul>
+    <li> [ ] Hashing on strings, know wh ncollision happens (cpalgorithm site)</li>
+    <li> [ ] Rabin karp algo</li>
+    <li> [ ] Prefix function</li>
+    <li> [ ] KMP Algo</li>
+    <li> [ ] Z-Function</li>
+    <li> [ ] Manacher's Algo </li>
+</ul>
     
-    1: Finding x^n in LogN
-    2: Modular Arithmetic
-    3: Module Inverse of a number
-    4: Chines remainder theorem
-    5: Factorial Modulo Mod
-    6: Finding nCr & nPr in queries
-    7: Inclusion Exclusion principle
+<h2>Trees</h2>
+<ul>
+    <li> [ ] Tree / Graph representation</li>
+    <li> [ ] DFS/BFS traversel in tree /graph</li>
+    <li> [ ] Diameter of a tree/Height/</li>
+    <li> [ ] Euler TOur fo tree</li>
+    <li> [ ] Finding LCA using Euler Tour / Binary Lifting</li>
+    <li> [ ] DIstance b/w two nodes</li>
+    <li> [ ] Subtree Problems (Solve prob on abos tree prob)</li>
+</ul>
 
+<h2>Graph</h2>
+<ul>
+    <li> [ ] Connected Components</li>
+    <li> [ ] Topilogical sort</li>
+    <li> [ ] Cyclic detection in graph</li>
+    <li> [ ] Bipartite check in graph</li>
+    <li> [ ] SCC using Kosaraju's alog</li>
+    <li> [ ] Dijkarta's Algo</li>
+    <li> [ ] Belmenford Algo</li>
+    <li> [ ] Floyd warshall algo (Solver more problems on above topic - Hackerearht/Codeforce)</li>
+    <li> [ ] Bridge in Grapgh</li>
+    <li> [ ] Articulation point in graph</li>
+    <li> [ ] Minimum spanning tree & kruskal algo</li>
+    <li> [ ] Prim's Alog</li>
+    <li> [ ] 0/1 BFS in linear time (cpalgo)</li>
+    <li> [ ] Finding bridgesin graph</li>
+</ul>
 
-    Some Advanced
-    ---------------
-    1: Learn about basic sorting Algorithms (Bubbel, Selectiom, Insertion)
-    2: Constructive and having swap terms in it
-    3: Bit Manupulation problems(Left shift,Right shift, Set bit, MSB LSB etc) (Hackerearth as good tuts)
-    4: Power set of a given array or string using BIT
-    5: Number of subarray with XOR as ZERO (Not alogirithm, but a nust do problem)
+<h2>Dynamic Programming</h2>
+<ul>
+    <li> [ ] Start with Recusion & Memoization with strong knowledge</li>
+    <li> [ ] Knapsack prob solve</li>
+    <li> [ ] Solve AtCoder Educational contest on DP 26/26 solve</li>
+    <li> [ ] Solve problem from SPOJ then Codeforces</li>
+    <li> [ ] Understand how we write recurrence for Digit DP(CF blog)</li>
+    <li> [ ] DP with bitmasks </li>
+    <li> [ ] DP in trees (Rajit jain video)</li>
+    <li> [ ] SOS DP</li>
+</ul>
 
-    6: Greedy Algoriths Tag
-    7: Kadan's Algorithms and problem related to them
-    8: Job sequesnce and activity selection problem
+<h2>More</h2
+<ul>
+    <li> [ ] Disjoint Set(Using all optimizations)</li>
+    <li> [ ] Offline Quesries using Disjoint Set</li>
+    <li> [ ] Kruskal's Alog</li>
+    <li> [ ] Sparse Table (Not Imp)</li>
+    <li> [ ] Fenwick Tree </li>
+    <li> [ ] Binary Lifting on fenwick tree</li>
+</ul>
 
-    
-    Recursion
-    -----------
+<h2>More</h2>
+<ul>
+    <li> [ ] Matrix Exponentiation</li>
+    <li> [ ] Sqrt Decomposition</li>
+    <li> [ ] Update and query operations</li>
+    <li> [ ] Mo's Algo (Codeforce blog)</li>
+    <li> [ ] Mo's Algo on Trees</li>
+    <li> [ ] Segment Tree </li>
+    <li> [ ] Lazy propogation in segment tress</li>
+</ul>
 
-    1: Recurssion probelms like finding factorial 
-    2: Implement Binary search using recursion
-    3: Implement modular exponent
-    4: Solve recursion problem like finding subset with given sum and other problesm
-
-    Advanced
-    ---------
-    1: Learn Merge Sort & Quick sort algorithms
-    2: Do backtracking problems like Sudoku and N-Queen problem (Help in DP path problems)
-    3: Meet in the middle algo and probs
-    4: Devide & Conquer problesm on Codeforces
-    5: Find next greater / Next samller element using stack
-    6: problesm related to paranthesis
-    7: Largest ractangular area in Histogram
-    8: Probleam related to Heap (Priority Queue)
-
-    Practice Hard on above problesm
-
-    More Advanced Don't GiveUP (1-4 hr in a problem)
-    -------------------------------------------------
-    1: Hashing on strings, know wh ncollision happens (cpalgorithm site)
-    2: Rabin karp algo
-    3: Prefix function
-    4: KMP Algo
-    5: Z-Function
-    6: Manacher's Algo (Solve bunch of problem in above topic)
-
-    Trees
-    -------------
-    1: Tree / Graph representation
-    2: DFS/BFS traversel in tree /graph
-    3: Diameter of a tree/Height/
-    4: Euler TOur fo tree
-    5: Finding LCA using Euler Tour / Binary Lifting
-    6: DIstance b/w two nodes
-    7: Subtree Problems (Solve prob on abos tree prob)
-
-    Graph
-    ------
-    1: Connected Components
-    2: Topilogical sort
-    3: Cyclic detection in graph
-    4: Bipartite check in graph
-    5: SCC using Kosaraju's alog
-    6: Dijkarta's Algo
-    7: Belmenford Algo
-    8: Floyd warshall algo (Solver more problems on above topic - Hackerearht/Codeforce)
-
-    9: Bridge in Grapgh
-    10: Articulation point in graph
-    11: Minimum spanning tree & kruskal algo
-    12: Prim's Alog
-    13: 0/1 BFS in linear time (cpalgo)
-    14: Finding bridgesin graph (Solve prob)
-
-    Dynamic Programming
-    --------------------
-    1: Start with Recusion & Memoization with strong knowledge
-    2: Knapsack prob solve
-    3: Solve AtCoder Educational contest on DP 26/26 solve
-    4: Solve problem from SPOJ then Codeforces
-    5: Understand how we write recurrence for Digit DP(CF blog)
-    6: Read DP with bitmasks and solve on hackerearth
-    7: DP in trees (Rajit jain video)
-    8: SOS DP
-    9: Practice More
-
-    More
-    ------
-    1: Disjoint Set(Using all optimizations)
-    2: Offline Quesries using Disjoint Set
-    3: Kruskal's Alog
-    4: Sparse Table (Not Imp)
-    5: Fenwick Tree (Read Update Trick also)
-    6: Binary Lifting on fenwick tree (More Solve prob)
-
-    And More
-    ---------
-    1: Matrix Exponentiation
-    2: Sqrt Decomposition
-    3: Update and query operations
-    4: Mo's Algo (Codeforce blog)
-    5: Mo's Algo on Trees
-    6: Segment Tree (Most Imp topic - Range queries and point updates)
-    7: Lazy propogation in segment tress
-
-    This help you tille E- level on Codeforces as least
-
-    At Last
-    ---------
-    1: Sprague-Grundy Theorem
-    2: Flows and related prob
-    3: Heavy light decomposition
-    4: Convex Hull Alog
-    5: FFT/NTT
+<h2>At Last</h2>
+<ul>
+    <li> [ ] Sprague-Grundy Theorem</li>
+    <li> [ ] Flows and related prob</li>
+    <li> [ ] Heavy light decomposition</li>
+    <li> [ ] Convex Hull Alog</li>
+    <li> [ ] FFT/NTT</li>
+</ul>
