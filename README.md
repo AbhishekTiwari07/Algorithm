@@ -4,11 +4,10 @@ This repo consists of all the algorithm i have learnt so far
 <h2>1.Basic</h2>
 <ul>
     <li> [x] Pattern printing problems </li>
-    <li> [ ] Analysis of time complexity </li>
-    <li> [ ] Linear Search problems </li>
-    <li> [ ] Analysis of time complexity </li>
+    <li> [x] Analysis of time complexity </li>
+    <li> [x] Linear Search problems </li>
     <li> [ ] Circular array using simple array </li>
-    <li> [ ] Palidrom, Perfect number </li>
+    <li> [x] Palidrom, Perfect number </li>
     <li> [ ] Simple Hashing problems </li>
     <li> [ ] Prefix Sum Problems 1D/2D </li>
     <li> [ ] Sliding window technich (1/5) </li>
@@ -16,8 +15,8 @@ This repo consists of all the algorithm i have learnt so far
 
 <h2>2.Intermediate</h2>
 <ul>
-    <li> [ ] Binary Search problesm (2/5) </li>
-    <li> [ ] Find GCD of 2 numbers in LogN (Euclined and Extended euclined algo) </li>
+    <li> [ ] Binary Search problems (2/5) </li>
+    <li> [ ] Find GCD of 2 numbers in O(LogN) (Euclined and Extended euclined algo) </li>
     <li> [ ] Prime in Sqrt(n) complexity </li>
     <li> [ ] Seive of Eratosthenes </li>
     <li> [ ] Segmented Seive </li>
