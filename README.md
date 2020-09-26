@@ -1,5 +1,5 @@
 # Algorithm
-This repo consists of all the algorithm i have learnt so far
+This repo consists of all the algorithm/problems i have learnt so far
 
 <h2>1.Basic</h2>
 <ul>
