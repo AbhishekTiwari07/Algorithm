@@ -15,7 +15,7 @@ This repo consists of all the algorithm/problems i have learnt so far
 
 <h2>2.Intermediate</h2>
 <ul>
-    <li> [ ] Binary Search problems (2/5) </li>
+    <li> [ ] Binary Search problems</li>
     <li> [ ] Find GCD of 2 numbers in O(LogN) (Euclined and Extended euclined algo) </li>
     <li> [ ] Prime in Sqrt(n) complexity </li>
     <li> [ ] Seive of Eratosthenes </li>
